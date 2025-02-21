@@ -21,7 +21,7 @@ Here is a list on BRep reconstruction, primarily consisting of academic papers, 
 
 # Paper 2010 - 2019
 - Lingxiao Li, Minhyuk Sung, Anastasia Dubrovina, Li Yi, Leonidas Guibas. *"Supervised Fitting of Geometric Primitives to 3D Point Clouds"*. 
-  - CVPR2019 Oral
+  - CVPR 2019 Oral
   - [[Paper](https://arxiv.org/abs/1811.08988)][[Code](https://github.com/lingxiaoli94/SPFN)]
 
 # Paper Before 2010
