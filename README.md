@@ -1,6 +1,8 @@
 # Awesome Brep Reconstruction
 A list on BRep reconstruction, primarily consisting of academic papers, along with some useful open-source projects and dataset. 
 
+It should be noted that, in addition to the complete implementation of BRep reconstruction, we also considered related work on **CAD Model Segmentation** and **Surface Fitting**, as these are important steps in BRep reconstruction.
+
 :blush: I will update this list regularly. 
 
 
@@ -35,6 +37,9 @@ A list on BRep reconstruction, primarily consisting of academic papers, along wi
 - Siming Yan, Zhenpei Yang, Chongyang Ma, Haibin Huang, Etienne Vouga, Qixing Huang. *"HPNet: Deep Primitive Segmentation Using Hybrid Representations"*. 
   - ICCV 2021
   - [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_HPNet_Deep_Primitive_Segmentation_Using_Hybrid_Representations_ICCV_2021_paper.pdf)][[Code](https://github.com/SimingYan/HPNet)]
+- Eric-Tuan Lê, Minhyuk Sung, Duygu Ceylan, Radomír Měch, Tamy Boubekeur, Niloy Mitra. *"CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds"*. 
+  - ICCV 2021
+  - [[Paper](https://arxiv.org/abs/2109.00113)][[Code](https://github.com/erictuanle/CPFN)]
 - Gopal Sharma, Difan Liu, Evangelos Kalogerakis, Subhransu Maji, Siddhartha Chaudhuri, Radomír Měch. *"ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds"*. 
   - ECCV 2020
   - [[Paper](https://arxiv.org/pdf/2003.12181.pdf)][[Project Page](https://hippogriff.github.io/parsenet/)][[Code](https://github.com/Hippogriff/parsenet-codebase)]
@@ -44,6 +49,9 @@ A list on BRep reconstruction, primarily consisting of academic papers, along wi
 - Lingxiao Li, Minhyuk Sung, Anastasia Dubrovina, Li Yi, Leonidas Guibas. *"Supervised Fitting of Geometric Primitives to 3D Point Clouds"*. 
   - CVPR 2019 Oral
   - [[Paper](https://arxiv.org/abs/1811.08988)][[Code](https://github.com/lingxiaoli94/SPFN)]
+- Truc Le, Ye Duan. *"A Primitive-based 3D Segmentation Algorithm for Mechanical CAD Models"*. 
+  - GMP 2017
+  - [[Paper](https://duanye.org/wp-content/uploads/2023/03/CAGD-2017-compressed.pdf)]
 - Jun Wang, Dong-xiao Gu, Zeyun Yu, Changbai Tan, Laishui Zhou. *"A framework for 3D model reconstruction in reverse engineering"*. 
   - Computers & Industrial Engineering 2012
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0360835212001842)]
