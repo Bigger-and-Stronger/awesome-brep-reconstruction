@@ -1,12 +1,12 @@
 # Awesome Brep Reconstruction
-A list on BRep reconstruction, primarily consisting of academic papers, along with some useful open-source projects and dataset. 
+A list on Brep reconstruction, primarily consisting of academic papers, along with some useful open-source projects and dataset. 
 
-It should be noted that, in addition to the complete implementation of BRep reconstruction, we also considered related work on **CAD Model Segmentation** and **Surface Fitting**, as these are important steps in BRep reconstruction.
+It should be noted that, in addition to the complete implementation of Brep reconstruction, we also considered related work on **CAD Model Segmentation**, **Surface Fitting** and **"Primitive Recognition"**, as these are important steps in BRep reconstruction.
 
 :blush: I will update this list regularly. 
 
 
-# Paper 2020 - 2025
+# Paper 2021 - 2025
 - Zeyu Shen, Mingyang Zhao, Dong-Ming Yan, Wencheng Wang. *"Mesh2Brep: B-rep Reconstruction via Robust Primitive Fitting and Intersection-aware Constraints"*. 
   - TVCG 2025
   - [[Paper](https://ieeexplore.ieee.org/document/10824954)]
@@ -22,12 +22,21 @@ It should be noted that, in addition to the complete implementation of BRep reco
 - Pu Li, Jianwei Guo, Huibin Li, Bedrich Benes, Dong-Ming Yan. *"SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations"*. 
   - CVRP 2024 
   - [[Paper](https://jianweiguo.net/publications/papers/2024_CVPR_SfmCAD_main.pdf)][[Code(May be in the process of organization)](https://github.com/BunnySoCrazy/SfmCAD)]
+- Anyu Mu, Zhenyu Liu, Guifang Duan, Jianrong Tan. *"Structural regularity detection and enhancement for surface mesh reconstruction in reverse engineering"*. 
+  - CAD 2024
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448524001076)]
 - Yuanqi Li, Shun Liu, Xinran Yang, Jianwei Guo, Jie Guo, Yanwen Guo. *"Surface and Edge Detection for Primitive Fitting of Point Clouds"*. 
   - SIGGRAPH 2023 Conference Proceedings
   - [[Paper](https://dl.acm.org/doi/10.1145/3588432.3591522)][[Code](https://github.com/yuanqili78/SED-Net)]
 - Pu Li, Jianwei Guo, Xiaopeng Zhang, Dong-Ming Yan. *"SECAD-Net: Self-Supervised CAD Reconstruction by Learning Sketch-Extrude Operations"*. 
   - CVRP 2023 
   - [[Paper](https://jianweiguo.net/publications/papers/2023-CVPR-SECADNet.pdf)][[Code](https://github.com/BunnySoCrazy/SECAD-Net)]
+- Anyu Mu, Zhenyu Liu, Guifang Duan, Jianrong Tan. *"Part-to-Surface Mesh Segmentation for Mechanical Models Based on Multi-Stage Clustering"*. 
+  - CAD 2023
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448523000775)]
+- Chiara Romanengo, Andrea Raffo , Silvia Biasotti, Bianca Falcidieno. *"Recognizing geometric primitives in 3D point clouds of mechanical CAD objects"*. 
+  - CAD 2023 
+  - [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0010448523000118)]
 - Long Zhang, Jianwei Guo, Jun Xiao, Xiaopeng Zhang, Dong-Ming Yan. *"Blending Surface Segmentation and Editing for 3D Models"*. 
   - TVCG 2022
   - [[Paper](https://ieeexplore.ieee.org/document/9296787)]
@@ -40,21 +49,29 @@ It should be noted that, in addition to the complete implementation of BRep reco
 - Eric-Tuan Lê, Minhyuk Sung, Duygu Ceylan, Radomír Měch, Tamy Boubekeur, Niloy Mitra. *"CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds"*. 
   - ICCV 2021
   - [[Paper](https://arxiv.org/abs/2109.00113)][[Code](https://github.com/erictuanle/CPFN)]
+
+# Paper 2010 - 2020
 - Gopal Sharma, Difan Liu, Evangelos Kalogerakis, Subhransu Maji, Siddhartha Chaudhuri, Radomír Měch. *"ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds"*. 
   - ECCV 2020
   - [[Paper](https://arxiv.org/pdf/2003.12181.pdf)][[Project Page](https://hippogriff.github.io/parsenet/)][[Code](https://github.com/Hippogriff/parsenet-codebase)]
-
-
-# Paper 2010 - 2019
+- Xiaolong Yang, Xiaohong Jia. *"Simple primitive recognition via hierarchical face clustering"*. 
+  - CVM 2020
+  - [[Paper](https://link.springer.com/article/10.1007/s41095-020-0192-6)]
 - Lingxiao Li, Minhyuk Sung, Anastasia Dubrovina, Li Yi, Leonidas Guibas. *"Supervised Fitting of Geometric Primitives to 3D Point Clouds"*. 
   - CVPR 2019 Oral
   - [[Paper](https://arxiv.org/abs/1811.08988)][[Code](https://github.com/lingxiaoli94/SPFN)]
 - Truc Le, Ye Duan. *"A Primitive-based 3D Segmentation Algorithm for Mechanical CAD Models"*. 
   - GMP 2017
   - [[Paper](https://duanye.org/wp-content/uploads/2023/03/CAGD-2017-compressed.pdf)]
+- István Kovács, Tamás Várady, Péter Salvi. *"Applying geometric constraints for perfecting CAD models in reverse engineering"*. 
+  - GM 2015
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070315000211)]
 - Jun Wang, Dong-xiao Gu, Zeyun Yu, Changbai Tan, Laishui Zhou. *"A framework for 3D model reconstruction in reverse engineering"*. 
   - Computers & Industrial Engineering 2012
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0360835212001842)]
+- Jun Wang, Zeyun Yu. *"Surface feature based mesh segmentation"*. 
+  - SMI 2011
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849311000550)]
 - Dong-Ming Yan, Wenping Wang, Yang Liu, Zhouwang Yang. *"Variational Mesh Segmentation via Quadric Surface Fitting"*. 
   - CAD 2012
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010448512000887)]
@@ -69,6 +86,9 @@ It should be noted that, in addition to the complete implementation of BRep reco
 - Dong-Ming Yan, Yang Liu, Wenping Wang. *"Quadric Surface Extraction by Variational Shape Approximation"*. 
   - GMP 2006
   - [[Paper](https://link.springer.com/chapter/10.1007/11802914_6)]
+- Marco Attene, Michela Spagnuolo and Bianca Falcidieno. *"Hierarchical Mesh Segmentation based on Fitting Primitives"*.
+  - TVC 2006
+  - [[Paper](https://link.springer.com/article/10.1007/s00371-006-0375-x)][[Software](https://efpisoft.sourceforge.net/)]
 - Pál Benkö, Géza Kós, Tamás Várady, László Andor and Ralph Robert Martin. *"Constrained fitting in reverse engineering"*. 
   - CAGD 2002
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839601000851)]
@@ -79,13 +99,14 @@ It should be noted that, in addition to the complete implementation of BRep reco
   - TPAMI 2001
   - [[Paper](https://ieeexplore.ieee.org/document/910883)]
 
-# BRep Dataset
+# Brep Dataset
 - [ABC Dataset](https://deep-geometry.github.io/abc-dataset/)
 - [Fusion 360 Gallery Dataset](https://github.com/AutodeskAILab/Fusion360GalleryDataset)
 
 # Useful Project (including but not limited to)
 - [Open CASCADE Technology](https://dev.opencascade.org/)
 - [Geometric Tools Engine](https://github.com/davideberly/GeometricTools)
+- [EfPiSoft](https://efpisoft.sourceforge.net/)
 - [OCC-QT-Demo](https://github.com/ajune-wang/OCC-QT-Demo)
 - [OpenCASCADE中文学习笔记](https://github.com/KonXiong/OpenCASCADE)
 
