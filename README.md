@@ -1,7 +1,7 @@
 # Awesome Brep Reconstruction
 A list on Brep reconstruction, primarily consisting of academic papers, along with some useful open-source projects and dataset. 
 
-It should be noted that, in addition to the complete implementation of Brep reconstruction, we also considered related work on **CAD Model Segmentation**, **Surface Fitting** and **"Primitive Recognition"**, as these are important steps in BRep reconstruction.
+It should be noted that, in addition to the complete implementation of Brep reconstruction, we also considered related work on **CAD Model Segmentation**, **Surface Fitting** and **Primitive Recognition**, as these are important steps in BRep reconstruction.
 
 :blush: I will update this list regularly. 
 
@@ -66,6 +66,10 @@ It should be noted that, in addition to the complete implementation of Brep reco
 - István Kovács, Tamás Várady, Péter Salvi. *"Applying geometric constraints for perfecting CAD models in reverse engineering"*. 
   - GM 2015
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070315000211)]
+  - Computers & Industrial Engineering 2012
+- Jun Wang, Dong-xiao Gu, Zhanheng Gao, Zeyun Yu, Changbai Tan, Laishui Zhou. *"Feature-Based Solid Model Reconstruction"*. 
+  - Journal of Computing and Information Science in Engineering 2013
+  - [[Paper](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/13/1/011004/371405/Feature-Based-Solid-Model-Reconstruction?redirectedFrom=fulltext)]
 - Jun Wang, Dong-xiao Gu, Zeyun Yu, Changbai Tan, Laishui Zhou. *"A framework for 3D model reconstruction in reverse engineering"*. 
   - Computers & Industrial Engineering 2012
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0360835212001842)]
@@ -80,28 +84,36 @@ It should be noted that, in addition to the complete implementation of Brep reco
   - [[Paper](https://dl.acm.org/doi/10.1145/1964921.1964947)][[Code](https://github.com/yangyanli/globfit)]
 
 # Paper Before 2010
-- Ruwen Schnabel, Roland Wahl, and Reinhard Klein. *"Efficient ransac for point-cloud shape detection"*. 
+- Ruwen Schnabel, Roland Wahl, Reinhard Klein. *"Efficient ransac for point-cloud shape detection"*. 
   - CGF 2007
   - [[Paper](https://cg.cs.uni-bonn.de/backend/v1/files/publications/schnabel-2007-efficient.pdf)][[Code](https://github.com/alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection)][[CGAL Document](https://doc.cgal.org/latest/Shape_detection/index.html)]
 - Dong-Ming Yan, Yang Liu, Wenping Wang. *"Quadric Surface Extraction by Variational Shape Approximation"*. 
   - GMP 2006
   - [[Paper](https://link.springer.com/chapter/10.1007/11802914_6)]
-- Marco Attene, Michela Spagnuolo and Bianca Falcidieno. *"Hierarchical Mesh Segmentation based on Fitting Primitives"*.
+- Marco Attene, Michela Spagnuolo, Bianca Falcidieno. *"Hierarchical Mesh Segmentation based on Fitting Primitives"*.
   - TVC 2006
   - [[Paper](https://link.springer.com/article/10.1007/s00371-006-0375-x)][[Software](https://efpisoft.sourceforge.net/)]
-- Pál Benkö, Géza Kós, Tamás Várady, László Andor and Ralph Robert Martin. *"Constrained fitting in reverse engineering"*. 
+- Tahir Rabbani, Frank Van Den Heuvel, George Vosselmann. *"Segmentation of point clouds using smoothness constraint."*.
+  - ISPRS J. PhotoGramm. 2006
+  - [[Paper](https://www.isprs.org/proceedings/XXXVI/part5/paper/RABB_639.pdf)][[PCL Document](https://pointclouds.org/documentation/classpcl_1_1_region_growing.html)]
+- Miguel Vieira, Kenji Shimada. *"Surface mesh segmentation and smooth surface extraction through region growing"*. 
+  - CAGD 2005
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0167839605000282)]
+- Pál Benkö, Géza Kós, Tamás Várady, László Andor, Ralph Robert Martin. *"Constrained fitting in reverse engineering"*. 
   - CAGD 2002
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839601000851)]
 - Pál Benkö, Ralph Robert Martin, Tamás Várady. *"Algorithms for reverse engineering boundary representation models"*. 
   - CAD 2001
   - [[Paper](https://orca.cardiff.ac.uk/id/eprint/1811/1/REalgorithms.pdf)]
-- A. David Marshall, Gábor Lukács and Ralph Robert Martin. *"Robust Segmentation of Primitives from Range Data in the Presence of Geometric Degeneracy"*. 
+- A. David Marshall, Gábor Lukács, Ralph Robert Martin. *"Robust Segmentation of Primitives from Range Data in the Presence of Geometric Degeneracy"*. 
   - TPAMI 2001
   - [[Paper](https://ieeexplore.ieee.org/document/910883)]
 
 # Brep Dataset
 - [ABC Dataset](https://deep-geometry.github.io/abc-dataset/)
 - [Fusion 360 Gallery Dataset](https://github.com/AutodeskAILab/Fusion360GalleryDataset)
+- [MFCAD](https://github.com/hducg/MFCAD)
+- [MFCAD++](https://pure.qub.ac.uk/en/datasets/mfcad-dataset-dataset-for-paper-hierarchical-cadnet-learning-from)
 
 # Useful Project (including but not limited to)
 - [Open CASCADE Technology](https://dev.opencascade.org/)
