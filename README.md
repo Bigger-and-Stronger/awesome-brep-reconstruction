@@ -1,12 +1,18 @@
 # Awesome Brep Reconstruction
 A list on Brep reconstruction, primarily consisting of academic papers, along with some useful open-source projects and dataset. 
 
-It should be noted that, in addition to the complete implementation of Brep reconstruction, we also considered related work on **CAD Model Segmentation**, **Surface Fitting** and **Primitive Recognition**, as these are important steps in BRep reconstruction.
+It should be noted that, in addition to the complete implementation of Brep reconstruction, we also considered related work on **CAD Model Segmentation**, **Surface Fitting**, **Primitive Recognition** and **Feature-line Reconstruction**, as these are important steps in BRep reconstruction.
 
 :blush: I will update this list regularly. 
 
 
 # Paper 2021 - 2025
+-  Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
+  - CVPR 2025
+  - [[Paper](https://lidan233.github.io/caddreamer/static/papers/main.pdf)][[Project Page](https://lidan233.github.io/caddreamer/)][[Code(coming soon)](https://lidan233.github.io/caddreamer/static/papers/main.pdf)]
+-  Yuanqi Li, Hongshen Wang, Yansong Liu, Jingcheng Huang, Shun Liu, Chenyu Huang, Jianwei Guo, Jie Guo, Yanwen Guo. *"Deep Point Cloud Edge Reconstruction via Surface Patch Segmentation"*. 
+  - TVCG 2025
+  - [[Paper](https://ieeexplore.ieee.org/abstract/document/10909144)]
 - Zeyu Shen, Mingyang Zhao, Dong-Ming Yan, Wencheng Wang. *"Mesh2Brep: B-rep Reconstruction via Robust Primitive Fitting and Intersection-aware Constraints"*. 
   - TVCG 2025
   - [[Paper](https://ieeexplore.ieee.org/document/10824954)]
@@ -43,6 +49,9 @@ It should be noted that, in addition to the complete implementation of Brep reco
 - Haoxiang Guo, Shilin Liu, Hao Pan, Yang Liu, Xin Tong, Baining Guo. *"ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation"*. 
   - SIGGRAPH 2022
   - [[Paper](https://haopan.github.io/papers/ComplexGen.pdf)][[Project Page](https://haopan.github.io/complexgen.html)][[Code](https://github.com/guohaoxiang/ComplexGen)]
+- Rui Xu, Zixiong Wang, Zhiyang Dou, Chen Zong, Shiqing Xin, Mingyan Jiang, Tao Ju, Changhe Tu. *"RFEPS: Reconstructing Feature-line Equipped Polygonal Surface"*. 
+  - SIGGRAPH Asia 2022
+  - [[Paper](https://arxiv.org/abs/2212.03600)][[Project Page](https://ruixu.me/html/RFEPS/index.html)][[Code](https://github.com/Xrvitd/RFEPS)]
 - Siming Yan, Zhenpei Yang, Chongyang Ma, Haibin Huang, Etienne Vouga, Qixing Huang. *"HPNet: Deep Primitive Segmentation Using Hybrid Representations"*. 
   - ICCV 2021
   - [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_HPNet_Deep_Primitive_Segmentation_Using_Hybrid_Representations_ICCV_2021_paper.pdf)][[Code](https://github.com/SimingYan/HPNet)]
@@ -84,12 +93,18 @@ It should be noted that, in addition to the complete implementation of Brep reco
   - [[Paper](https://dl.acm.org/doi/10.1145/1964921.1964947)][[Code](https://github.com/yangyanli/globfit)]
 
 # Paper Before 2010
+- Yuekun Lai, Shi-Min Hu, Ralph R. Martin, Paul L. Rosin. *"Fast Mesh Segmentation using Random Walks"*. 
+  - SPM 2008
+  - [[Paper](https://cg.cs.tsinghua.edu.cn/people/~laiyk/papers/spm08seg.pdf)]
 - Ruwen Schnabel, Roland Wahl, Reinhard Klein. *"Efficient ransac for point-cloud shape detection"*. 
   - CGF 2007
   - [[Paper](https://cg.cs.uni-bonn.de/backend/v1/files/publications/schnabel-2007-efficient.pdf)][[Code](https://github.com/alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection)][[CGAL Document](https://doc.cgal.org/latest/Shape_detection/index.html)]
 - Dong-Ming Yan, Yang Liu, Wenping Wang. *"Quadric Surface Extraction by Variational Shape Approximation"*. 
   - GMP 2006
   - [[Paper](https://link.springer.com/chapter/10.1007/11802914_6)]
+- Tomohiro Mizoguchi, Hiroaki Date, Satoshi Kanai, Takeshi Kishinami. *"Segmentation of Scanned Mesh into Analytic Surfaces Based on Robust Curvature Estimation and Region Growing"*. 
+  - GMP 2006
+  - [[Paper](https://link.springer.com/chapter/10.1007/11802914_52)]
 - Marco Attene, Michela Spagnuolo, Bianca Falcidieno. *"Hierarchical Mesh Segmentation based on Fitting Primitives"*.
   - TVC 2006
   - [[Paper](https://link.springer.com/article/10.1007/s00371-006-0375-x)][[Software](https://efpisoft.sourceforge.net/)]
