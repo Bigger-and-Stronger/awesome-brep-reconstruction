@@ -6,16 +6,18 @@ It should be noted that, in addition to the complete implementation of Brep reco
 :blush: I will update this list regularly. 
 
 
-# Paper 2021 - 2025
--  Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
+# 2025
+- Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
   - CVPR 2025
   - [[Paper](https://lidan233.github.io/caddreamer/static/papers/main.pdf)][[Project Page](https://lidan233.github.io/caddreamer/)][[Code(coming soon)](https://lidan233.github.io/caddreamer/static/papers/main.pdf)]
--  Yuanqi Li, Hongshen Wang, Yansong Liu, Jingcheng Huang, Shun Liu, Chenyu Huang, Jianwei Guo, Jie Guo, Yanwen Guo. *"Deep Point Cloud Edge Reconstruction via Surface Patch Segmentation"*. 
+- Yuanqi Li, Hongshen Wang, Yansong Liu, Jingcheng Huang, Shun Liu, Chenyu Huang, Jianwei Guo, Jie Guo, Yanwen Guo. *"Deep Point Cloud Edge Reconstruction via Surface Patch Segmentation"*. 
   - TVCG 2025
   - [[Paper](https://ieeexplore.ieee.org/abstract/document/10909144)]
 - Zeyu Shen, Mingyang Zhao, Dong-Ming Yan, Wencheng Wang. *"Mesh2Brep: B-rep Reconstruction via Robust Primitive Fitting and Intersection-aware Constraints"*. 
   - TVCG 2025
   - [[Paper](https://ieeexplore.ieee.org/document/10824954)]
+
+# 2024
 - Kseniya Cherenkova, Elona Dupont, Anis Kacem, Gleb Gusev, Djamila Aouada. *"SpelsNet: Surface Primitive Elements Segmentation by B-Rep Graph Structure Supervision"*. 
   - NeurIPS 2024
   - [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf)][[Open Review](https://openreview.net/forum?id=Ad3PzTuqIq)]
@@ -31,6 +33,8 @@ It should be noted that, in addition to the complete implementation of Brep reco
 - Anyu Mu, Zhenyu Liu, Guifang Duan, Jianrong Tan. *"Structural regularity detection and enhancement for surface mesh reconstruction in reverse engineering"*. 
   - CAD 2024
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448524001076)]
+
+# 2023
 - Yuanqi Li, Shun Liu, Xinran Yang, Jianwei Guo, Jie Guo, Yanwen Guo. *"Surface and Edge Detection for Primitive Fitting of Point Clouds"*. 
   - SIGGRAPH 2023 Conference Proceedings
   - [[Paper](https://dl.acm.org/doi/10.1145/3588432.3591522)][[Code](https://github.com/yuanqili78/SED-Net)]
@@ -43,15 +47,19 @@ It should be noted that, in addition to the complete implementation of Brep reco
 - Chiara Romanengo, Andrea Raffo , Silvia Biasotti, Bianca Falcidieno. *"Recognizing geometric primitives in 3D point clouds of mechanical CAD objects"*. 
   - CAD 2023 
   - [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0010448523000118)]
-- Long Zhang, Jianwei Guo, Jun Xiao, Xiaopeng Zhang, Dong-Ming Yan. *"Blending Surface Segmentation and Editing for 3D Models"*. 
-  - TVCG 2022
-  - [[Paper](https://ieeexplore.ieee.org/document/9296787)]
+
+# 2022
 - Haoxiang Guo, Shilin Liu, Hao Pan, Yang Liu, Xin Tong, Baining Guo. *"ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation"*. 
   - SIGGRAPH 2022
   - [[Paper](https://haopan.github.io/papers/ComplexGen.pdf)][[Project Page](https://haopan.github.io/complexgen.html)][[Code](https://github.com/guohaoxiang/ComplexGen)]
 - Rui Xu, Zixiong Wang, Zhiyang Dou, Chen Zong, Shiqing Xin, Mingyan Jiang, Tao Ju, Changhe Tu. *"RFEPS: Reconstructing Feature-line Equipped Polygonal Surface"*. 
   - SIGGRAPH Asia 2022
   - [[Paper](https://arxiv.org/abs/2212.03600)][[Project Page](https://ruixu.me/html/RFEPS/index.html)][[Code](https://github.com/Xrvitd/RFEPS)]
+- Long Zhang, Jianwei Guo, Jun Xiao, Xiaopeng Zhang, Dong-Ming Yan. *"Blending Surface Segmentation and Editing for 3D Models"*. 
+  - TVCG 2022
+  - [[Paper](https://ieeexplore.ieee.org/document/9296787)]
+
+# 2021
 - Siming Yan, Zhenpei Yang, Chongyang Ma, Haibin Huang, Etienne Vouga, Qixing Huang. *"HPNet: Deep Primitive Segmentation Using Hybrid Representations"*. 
   - ICCV 2021
   - [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_HPNet_Deep_Primitive_Segmentation_Using_Hybrid_Representations_ICCV_2021_paper.pdf)][[Code](https://github.com/SimingYan/HPNet)]
@@ -59,7 +67,7 @@ It should be noted that, in addition to the complete implementation of Brep reco
   - ICCV 2021
   - [[Paper](https://arxiv.org/abs/2109.00113)][[Code](https://github.com/erictuanle/CPFN)]
 
-# Paper 2010 - 2020
+# 2010 - 2020
 - Gopal Sharma, Difan Liu, Evangelos Kalogerakis, Subhransu Maji, Siddhartha Chaudhuri, Radomír Měch. *"ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds"*. 
   - ECCV 2020
   - [[Paper](https://arxiv.org/pdf/2003.12181.pdf)][[Project Page](https://hippogriff.github.io/parsenet/)][[Code](https://github.com/Hippogriff/parsenet-codebase)]
@@ -92,7 +100,7 @@ It should be noted that, in addition to the complete implementation of Brep reco
   - SIGGRAPH 2011
   - [[Paper](https://dl.acm.org/doi/10.1145/1964921.1964947)][[Code](https://github.com/yangyanli/globfit)]
 
-# Paper Before 2010
+# Before 2010
 - Yuekun Lai, Shi-Min Hu, Ralph R. Martin, Paul L. Rosin. *"Fast Mesh Segmentation using Random Walks"*. 
   - SPM 2008
   - [[Paper](https://cg.cs.tsinghua.edu.cn/people/~laiyk/papers/spm08seg.pdf)]
