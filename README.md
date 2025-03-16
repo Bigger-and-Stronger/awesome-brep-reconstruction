@@ -12,7 +12,7 @@ __`pri.`__ : primitive recognition &emsp; | &emsp; __`fea.`__ : feature-line rec
 
 __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`oth.`__ : other
 
-:balloon: reference to [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis).
+:balloon: **reference to [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis).**
 
 # 2025
 - Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
@@ -72,7 +72,7 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - Haoxiang Guo, Shilin Liu, Hao Pan, Yang Liu, Xin Tong, Baining Guo. *"ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation"*. 
   - SIGGRAPH 2022
   - [[Paper](https://haopan.github.io/papers/ComplexGen.pdf)][[Project Page](https://haopan.github.io/complexgen.html)][[Code](https://github.com/guohaoxiang/ComplexGen)]
-  - __`com.`__ 
+  - __`seg.`__ __`com.`__ 
 - Rui Xu, Zixiong Wang, Zhiyang Dou, Chen Zong, Shiqing Xin, Mingyan Jiang, Tao Ju, Changhe Tu. *"RFEPS: Reconstructing Feature-line Equipped Polygonal Surface"*. 
   - SIGGRAPH Asia 2022
   - [[Paper](https://arxiv.org/abs/2212.03600)][[Project Page](https://ruixu.me/html/RFEPS/index.html)][[Code](https://github.com/Xrvitd/RFEPS)]
@@ -90,9 +90,9 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - Eric-Tuan Lê, Minhyuk Sung, Duygu Ceylan, Radomír Měch, Tamy Boubekeur, Niloy Mitra. *"CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds"*. 
   - ICCV 2021
   - [[Paper](https://arxiv.org/abs/2109.00113)][[Code](https://github.com/erictuanle/CPFN)]
-  -__`seg.`__ __`pri.`__ 
+  - __`seg.`__ __`pri.`__ 
 
-# 2010 - 2020
+# 2020
 - Gopal Sharma, Difan Liu, Evangelos Kalogerakis, Subhransu Maji, Siddhartha Chaudhuri, Radomír Měch. *"ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds"*. 
   - ECCV 2020
   - [[Paper](https://arxiv.org/pdf/2003.12181.pdf)][[Project Page](https://hippogriff.github.io/parsenet/)][[Code](https://github.com/Hippogriff/parsenet-codebase)]
@@ -101,18 +101,42 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - CVM 2020
   - [[Paper](https://link.springer.com/article/10.1007/s41095-020-0192-6)]
   - __`seg.`__ __`pri.`__ 
+
+# 2019
 - Lingxiao Li, Minhyuk Sung, Anastasia Dubrovina, Li Yi, Leonidas Guibas. *"Supervised Fitting of Geometric Primitives to 3D Point Clouds"*. 
   - CVPR 2019 Oral
   - [[Paper](https://arxiv.org/abs/1811.08988)][[Code](https://github.com/lingxiaoli94/SPFN)]
-  - __`seg.`__ __`pri.`__ 
+  - __`seg.`__ __`fit.`__ __`pri.`__
+- Márton Vaitkus, Tamás Várady. *"A Labeling Algorithm for Trimmed Surface Fitting"*. 
+  - CADA 2019
+  - [[Paper](https://www.cad-journal.net/files/vol_16/CAD_16(4)_2019_720-732.pdf)]
+  - __`fit.`__
+
+# 2018
+- Márton Vaitkus, Tamás Várady. *"Parameterizing and extending trimmed regions for tensor-product surface fitting"*. 
+  - CAD 2018
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448517302312)]
+  - __`fit.`__
+
+# 2017
 - Truc Le, Ye Duan. *"A Primitive-based 3D Segmentation Algorithm for Mechanical CAD Models"*. 
   - GMP 2017
   - [[Paper](https://duanye.org/wp-content/uploads/2023/03/CAGD-2017-compressed.pdf)]
   - __`seg.`__ __`pri.`__ 
+- Amirreza, Miandarhoie, Khalili Khalil, Mohammadinejad Hajimohammad. *"CAD mesh models segmentation into swept surfaces"*. 
+  - International Journal of Advanced Manufacturing Technolog 2017
+  - [[Paper](https://link.springer.com/article/10.1007/s00170-017-0437-4)]
+  - __`seg.`__ __`pri.`__ 
+
+# 2010 - 2015
 - István Kovács, Tamás Várady, Péter Salvi. *"Applying geometric constraints for perfecting CAD models in reverse engineering"*. 
   - GM 2015
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070315000211)]
   - __`oth.`__ 
+- M Bartoň, Helmut Pottmann, Johannes Wallner. *"Detection and reconstruction of freeform sweeps"*. 
+  - CGF 2014
+  - [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12287)]
+  - __`seg.`__ __`fit.`__ __`pri.`__
 - Jun Wang, Dong-xiao Gu, Zhanheng Gao, Zeyun Yu, Changbai Tan, Laishui Zhou. *"Feature-Based Solid Model Reconstruction"*. 
   - Journal of Computing and Information Science in Engineering 2013
   - [[Paper](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/13/1/011004/371405/Feature-Based-Solid-Model-Reconstruction?redirectedFrom=fulltext)]
@@ -121,18 +145,18 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - Computers & Industrial Engineering 2012
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0360835212001842)]
   - __`com.`__ 
-- Jun Wang, Zeyun Yu. *"Surface feature based mesh segmentation"*. 
-  - SMI 2011
-  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849311000550)]
-  - __`seg.`__ __`pri.`__  
 - Dong-Ming Yan, Wenping Wang, Yang Liu, Zhouwang Yang. *"Variational Mesh Segmentation via Quadric Surface Fitting"*. 
   - CAD 2012
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010448512000887)]
-  - __`seg.`__ 
+  - __`seg.`__ __`fit.`__  
 - Yangyan Li, Xiaokun Wu, Yiorgos Chrysanthou, Andrei Sharf, Daniel Cohen-Or, Niloy Jyoti Mitra. *"GlobFit: consistently fitting primitives by discovering global relations"*. 
   - SIGGRAPH 2011
   - [[Paper](https://dl.acm.org/doi/10.1145/1964921.1964947)][[Code](https://github.com/yangyanli/globfit)]
   - __`oth.`__ 
+- Jun Wang, Zeyun Yu. *"Surface feature based mesh segmentation"*. 
+  - SMI 2011
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849311000550)]
+  - __`seg.`__ __`pri.`__  
 
 # Before 2010
 - Yuekun Lai, Shi-Min Hu, Ralph R. Martin, Paul L. Rosin. *"Fast Mesh Segmentation using Random Walks"*. 
@@ -142,11 +166,11 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - Ruwen Schnabel, Roland Wahl, Reinhard Klein. *"Efficient ransac for point-cloud shape detection"*. 
   - CGF 2007
   - [[Paper](https://cg.cs.uni-bonn.de/backend/v1/files/publications/schnabel-2007-efficient.pdf)][[Code](https://github.com/alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection)][[CGAL Document](https://doc.cgal.org/latest/Shape_detection/index.html)]
-  - __`pri.`__  
+  - __`pri.`__ __`fit.`__ 
 - Dong-Ming Yan, Yang Liu, Wenping Wang. *"Quadric Surface Extraction by Variational Shape Approximation"*. 
   - GMP 2006
   - [[Paper](https://link.springer.com/chapter/10.1007/11802914_6)]
-  - __`seg.`__ 
+  - __`seg.`__ __`fit.`__  
 - Tomohiro Mizoguchi, Hiroaki Date, Satoshi Kanai, Takeshi Kishinami. *"Segmentation of Scanned Mesh into Analytic Surfaces Based on Robust Curvature Estimation and Region Growing"*. 
   - GMP 2006
   - [[Paper](https://link.springer.com/chapter/10.1007/11802914_52)]
@@ -166,7 +190,7 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - Pál Benkö, Géza Kós, Tamás Várady, László Andor, Ralph Robert Martin. *"Constrained fitting in reverse engineering"*. 
   - CAGD 2002
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839601000851)]
-  - __`oth.`__ 
+  - __`fit.`__ 
 - Pál Benkö, Ralph Robert Martin, Tamás Várady. *"Algorithms for reverse engineering boundary representation models"*. 
   - CAD 2001
   - [[Paper](https://orca.cardiff.ac.uk/id/eprint/1811/1/REalgorithms.pdf)]
@@ -174,7 +198,7 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - A. David Marshall, Gábor Lukács, Ralph Robert Martin. *"Robust Segmentation of Primitives from Range Data in the Presence of Geometric Degeneracy"*. 
   - TPAMI 2001
   - [[Paper](https://ieeexplore.ieee.org/document/910883)]
-  - __`seg.`__ __`pri.`__  
+  - __`seg.`__ __`fit.`__ __`pri.`__  
 
 # Brep Dataset
 - [ABC Dataset](https://deep-geometry.github.io/abc-dataset/)
