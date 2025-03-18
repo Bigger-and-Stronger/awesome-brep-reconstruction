@@ -36,11 +36,11 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - Yilin Liu, Jiale Chen, Shanshan Pan, Daniel Cohen-Or, Hao Zhang, Hui Huang. *"Split-and-Fit: Learning B-Reps via Structure-Aware Voronoi Partitioning"*. 
   - SIGGRAPH 2024 
   - [[Paper](https://arxiv.org/abs/2406.05261)][[Project Page](https://vcc.tech/research/2024/BRepVP)][[Code](https://github.com/yilinliu77/NVDNet)]
-  - __`com.`__
+  - __`seg.`__ __`com.`__
 - Yujia Liu, Anton Obukhov, Jan Dirk Wegner, Konrad Schindler. *"Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds"*. 
   - CVPR 2024 
   - [[Paper](https://arxiv.org/abs/2312.04962)][[Project Page](https://www.obukhov.ai/point2cad)][[Code](https://github.com/prs-eth/point2cad)]
-  - __`com.`__
+  - __`fit.`__  __`com.`__ 
 - Pu Li, Jianwei Guo, Huibin Li, Bedrich Benes, Dong-Ming Yan. *"SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations"*. 
   - CVRP 2024 
   - [[Paper](https://jianweiguo.net/publications/papers/2024_CVPR_SfmCAD_main.pdf)][[Code(May be in the process of organization)](https://github.com/BunnySoCrazy/SfmCAD)]
@@ -128,19 +128,25 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - [[Paper](https://link.springer.com/article/10.1007/s00170-017-0437-4)]
   - __`seg.`__ __`pri.`__ 
 
-# 2010 - 2015
+# 2015
 - István Kovács, Tamás Várady, Péter Salvi. *"Applying geometric constraints for perfecting CAD models in reverse engineering"*. 
   - GM 2015
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070315000211)]
   - __`oth.`__ 
+
+# 2014
 - M Bartoň, Helmut Pottmann, Johannes Wallner. *"Detection and reconstruction of freeform sweeps"*. 
   - CGF 2014
   - [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12287)]
   - __`seg.`__ __`fit.`__ __`pri.`__
+
+# 2013
 - Jun Wang, Dong-xiao Gu, Zhanheng Gao, Zeyun Yu, Changbai Tan, Laishui Zhou. *"Feature-Based Solid Model Reconstruction"*. 
   - Journal of Computing and Information Science in Engineering 2013
   - [[Paper](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/13/1/011004/371405/Feature-Based-Solid-Model-Reconstruction?redirectedFrom=fulltext)]
   - __`com.`__ 
+
+# 2012
 - Jun Wang, Dong-xiao Gu, Zeyun Yu, Changbai Tan, Laishui Zhou. *"A framework for 3D model reconstruction in reverse engineering"*. 
   - Computers & Industrial Engineering 2012
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0360835212001842)]
@@ -149,6 +155,8 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - CAD 2012
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010448512000887)]
   - __`seg.`__ __`fit.`__  
+
+# 2011
 - Yangyan Li, Xiaokun Wu, Yiorgos Chrysanthou, Andrei Sharf, Daniel Cohen-Or, Niloy Jyoti Mitra. *"GlobFit: consistently fitting primitives by discovering global relations"*. 
   - SIGGRAPH 2011
   - [[Paper](https://dl.acm.org/doi/10.1145/1964921.1964947)][[Code](https://github.com/yangyanli/globfit)]
@@ -158,15 +166,19 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849311000550)]
   - __`seg.`__ __`pri.`__  
 
-# Before 2010
+# 2008
 - Yuekun Lai, Shi-Min Hu, Ralph R. Martin, Paul L. Rosin. *"Fast Mesh Segmentation using Random Walks"*. 
   - SPM 2008
   - [[Paper](https://cg.cs.tsinghua.edu.cn/people/~laiyk/papers/spm08seg.pdf)]
-  - __`seg.`__ 
+  - __`seg.`__
+
+# 2007 
 - Ruwen Schnabel, Roland Wahl, Reinhard Klein. *"Efficient ransac for point-cloud shape detection"*. 
   - CGF 2007
   - [[Paper](https://cg.cs.uni-bonn.de/backend/v1/files/publications/schnabel-2007-efficient.pdf)][[Code](https://github.com/alessandro-gentilini/Efficient-RANSAC-for-Point-Cloud-Shape-Detection)][[CGAL Document](https://doc.cgal.org/latest/Shape_detection/index.html)]
   - __`pri.`__ __`fit.`__ 
+
+# 2006
 - Dong-Ming Yan, Yang Liu, Wenping Wang. *"Quadric Surface Extraction by Variational Shape Approximation"*. 
   - GMP 2006
   - [[Paper](https://link.springer.com/chapter/10.1007/11802914_6)]
@@ -183,14 +195,30 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - ISPRS J. PhotoGramm. 2006
   - [[Paper](https://www.isprs.org/proceedings/XXXVI/part5/paper/RABB_639.pdf)][[PCL Document](https://pointclouds.org/documentation/classpcl_1_1_region_growing.html)]
   - __`seg.`__ 
+
+# 2005
+- Michael Hofer, Boris Odehnal, Helmut Pottmann, Tibor Steiner, Johannes Wallner. *"3D shape recognition and reconstruction based on line element geometry"*. 
+  - ICCV 2005
+  - [[Paper](https://www.geometrie.tuwien.ac.at/geom/ig/publications/oldpub/2005/hopsw_line_05/paper_docs/line.pdf)]
+  - __`seg.`__ __`fit.`__ __`pri.`__  
 - Miguel Vieira, Kenji Shimada. *"Surface mesh segmentation and smooth surface extraction through region growing"*. 
   - CAGD 2005
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0167839605000282)]
   - __`seg.`__ 
+
+# 2004
+- Helmut Pottmann, Michael Hofer, Boris Odehnal, Johannes Wallner. *"Line geometry for 3D shape understanding and reconstruction"*. 
+  - ECCV 2004
+  - [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=65e9461070d3a0f42c8f33636207a68d065888c2)]
+  - __`seg.`__ __`fit.`__ __`pri.`__  
+
+# 2002
 - Pál Benkö, Géza Kós, Tamás Várady, László Andor, Ralph Robert Martin. *"Constrained fitting in reverse engineering"*. 
   - CAGD 2002
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839601000851)]
   - __`fit.`__ 
+
+# 2001
 - Pál Benkö, Ralph Robert Martin, Tamás Várady. *"Algorithms for reverse engineering boundary representation models"*. 
   - CAD 2001
   - [[Paper](https://orca.cardiff.ac.uk/id/eprint/1811/1/REalgorithms.pdf)]
