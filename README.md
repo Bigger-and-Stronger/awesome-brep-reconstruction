@@ -29,10 +29,6 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`seg.`__ __`fit.`__  __`com.`__ 
 
 # 2024
-- Kseniya Cherenkova, Elona Dupont, Anis Kacem, Gleb Gusev, Djamila Aouada. *"SpelsNet: Surface Primitive Elements Segmentation by B-Rep Graph Structure Supervision"*. 
-  - NeurIPS 2024
-  - [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf)][[Open Review](https://openreview.net/forum?id=Ad3PzTuqIq)]
-  - __`seg.`__
 - Yilin Liu, Jiale Chen, Shanshan Pan, Daniel Cohen-Or, Hao Zhang, Hui Huang. *"Split-and-Fit: Learning B-Reps via Structure-Aware Voronoi Partitioning"*. 
   - SIGGRAPH 2024 
   - [[Paper](https://arxiv.org/abs/2406.05261)][[Project Page](https://vcc.tech/research/2024/BRepVP)][[Code](https://github.com/yilinliu77/NVDNet)]
@@ -45,9 +41,17 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - CVRP 2024 
   - [[Paper](https://jianweiguo.net/publications/papers/2024_CVPR_SfmCAD_main.pdf)][[Code(May be in the process of organization)](https://github.com/BunnySoCrazy/SfmCAD)]
   - __`pri.`__
+- Kseniya Cherenkova, Elona Dupont, Anis Kacem, Gleb Gusev, Djamila Aouada. *"SpelsNet: Surface Primitive Elements Segmentation by B-Rep Graph Structure Supervision"*. 
+  - NeurIPS 2024
+  - [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf)][[Open Review](https://openreview.net/forum?id=Ad3PzTuqIq)]
+  - __`seg.`__
 - Anyu Mu, Zhenyu Liu, Guifang Duan, Jianrong Tan. *"Structural regularity detection and enhancement for surface mesh reconstruction in reverse engineering"*. 
   - CAD 2024
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448524001076)]
+  - __`oth.`__
+- Yuta Fukushima, Anran Qi, I-Chao Shen, Yulia Gryaditskaya, Takeo Igarashi. *"3D Reconstruction from Sketch with Hidden Lines by Two-Branch Diffusion Model"*. 
+  - EG 2024 Short Paper
+  - [[Paper](https://diglib.eg.org/items/f669041e-4a18-4406-88d4-e9c20cad7cc9)]
   - __`oth.`__
 
 # 2023
@@ -119,6 +123,14 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`fit.`__
 
 # 2017
+- Yixin Zhuang, Hang Dou, Nathan Carr, Tao Ju. *"Feature-Aligned Segmentation using Correlation Clustering"*. 
+  - CVM 2017
+  - [[Paper](https://link.springer.com/article/10.1007/s41095-016-0071-3)][[Code](https://github.com/yixin26/Mesh-Segmentation)]
+  - __`seg.`__  
+- Yanpei Cao, Tao Ju, J. Xu, Shimin Hu. *"Extracting Sharp Features from RGB‐D Images"*. 
+  - CGF 2017
+  - [[Paper](https://www.cse.wustl.edu/~taoju/research/rgbdedge_self.pdf)]
+  - __`seg.`__ __`pri.`__ 
 - Truc Le, Ye Duan. *"A Primitive-based 3D Segmentation Algorithm for Mechanical CAD Models"*. 
   - GMP 2017
   - [[Paper](https://duanye.org/wp-content/uploads/2023/03/CAGD-2017-compressed.pdf)]
@@ -129,6 +141,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`seg.`__ __`pri.`__ 
 
 # 2015
+- Hao Pan, Yang Liu, Alla Sheffer, Nicholas Vining, Changjian Li, Wenping Wang. *"Flow Aligned Surfacing of Curve Networks"*. 
+  - SIGGRAPH 2015
+  - [[Paper](https://haopan.github.io/papers/sketch_surface.pdf)][[Project Page](https://haopan.github.io/curvenet_surfacing.html)][[Code](https://github.com/lingxiaoli94/SPFN)]
+  - __`oth.`__ 
 - István Kovács, Tamás Várady, Péter Salvi. *"Applying geometric constraints for perfecting CAD models in reverse engineering"*. 
   - GM 2015
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070315000211)]
@@ -179,6 +195,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`pri.`__ __`fit.`__ 
 
 # 2006
+- Marco Attene, Michela Spagnuolo, Bianca Falcidieno. *"Hierarchical Mesh Segmentation based on Fitting Primitives"*.
+  - TVC 2006
+  - [[Paper](https://link.springer.com/article/10.1007/s00371-006-0375-x)][[Software](https://efpisoft.sourceforge.net/)]
+  - __`seg.`__ __`pri.`__  
 - Dong-Ming Yan, Yang Liu, Wenping Wang. *"Quadric Surface Extraction by Variational Shape Approximation"*. 
   - GMP 2006
   - [[Paper](https://link.springer.com/chapter/10.1007/11802914_6)]
@@ -187,10 +207,6 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - GMP 2006
   - [[Paper](https://link.springer.com/chapter/10.1007/11802914_52)]
   - __`seg.`__ 
-- Marco Attene, Michela Spagnuolo, Bianca Falcidieno. *"Hierarchical Mesh Segmentation based on Fitting Primitives"*.
-  - TVC 2006
-  - [[Paper](https://link.springer.com/article/10.1007/s00371-006-0375-x)][[Software](https://efpisoft.sourceforge.net/)]
-  - __`seg.`__ __`pri.`__  
 - Tahir Rabbani, Frank Van Den Heuvel, George Vosselmann. *"Segmentation of point clouds using smoothness constraint."*.
   - ISPRS J. PhotoGramm. 2006
   - [[Paper](https://www.isprs.org/proceedings/XXXVI/part5/paper/RABB_639.pdf)][[PCL Document](https://pointclouds.org/documentation/classpcl_1_1_region_growing.html)]
@@ -206,19 +222,15 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0167839605000282)]
   - __`seg.`__ 
 
-# 2004
+# Before 2005
 - Helmut Pottmann, Michael Hofer, Boris Odehnal, Johannes Wallner. *"Line geometry for 3D shape understanding and reconstruction"*. 
   - ECCV 2004
   - [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=65e9461070d3a0f42c8f33636207a68d065888c2)]
   - __`seg.`__ __`fit.`__ __`pri.`__  
-
-# 2002
 - Pál Benkö, Géza Kós, Tamás Várady, László Andor, Ralph Robert Martin. *"Constrained fitting in reverse engineering"*. 
   - CAGD 2002
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839601000851)]
   - __`fit.`__ 
-
-# 2001
 - Pál Benkö, Ralph Robert Martin, Tamás Várady. *"Algorithms for reverse engineering boundary representation models"*. 
   - CAD 2001
   - [[Paper](https://orca.cardiff.ac.uk/id/eprint/1811/1/REalgorithms.pdf)]
@@ -227,6 +239,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - TPAMI 2001
   - [[Paper](https://ieeexplore.ieee.org/document/910883)]
   - __`seg.`__ __`fit.`__ __`pri.`__  
+- Gabriel Taubin. *"An improved algorithm for algebraic curve and surface fitting"*. 
+  - ICCV 1993
+  - [[Paper](https://ieeexplore.ieee.org/abstract/document/378149/)]
+  - __`fit.`__  
 
 # Brep Dataset
 - [ABC Dataset](https://deep-geometry.github.io/abc-dataset/)
