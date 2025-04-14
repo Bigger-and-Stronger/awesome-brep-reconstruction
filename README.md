@@ -17,7 +17,7 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 # 2025
 - Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
   - CVPR 2025
-  - [[Paper](https://lidan233.github.io/caddreamer/static/papers/main.pdf)][[Project Page](https://lidan233.github.io/caddreamer/)][[Code(coming soon)](https://lidan233.github.io/caddreamer/static/papers/main.pdf)]
+  - [[Paper](https://lidan233.github.io/caddreamer/static/papers/main.pdf)][[Project Page](https://lidan233.github.io/caddreamer/)][[Code(coming soon)](https://github.com/lidan233/CADDreamer)]
   - __`com.`__
 - Yuanqi Li, Hongshen Wang, Yansong Liu, Jingcheng Huang, Shun Liu, Chenyu Huang, Jianwei Guo, Jie Guo, Yanwen Guo. *"Deep Point Cloud Edge Reconstruction via Surface Patch Segmentation"*. 
   - TVCG 2025
@@ -63,6 +63,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - CVRP 2023 
   - [[Paper](https://jianweiguo.net/publications/papers/2023-CVPR-SECADNet.pdf)][[Code](https://github.com/BunnySoCrazy/SECAD-Net)]
   - __`pri.`__ 
+- Rao Fu, Cheng Wen, Qian Li, Xiao Xiao, Pierre Alliez. *"BPNet: Bézier Primitive Segmentation on 3D Point Clouds"*. 
+  - IJCAI 2023 
+  - [[Paper](https://www.ijcai.org/proceedings/2023/84)][[Code](https://github.com/bizerfr/BPNet)]
+  - __`seg.`__ __`pri.`__ 
 - Anyu Mu, Zhenyu Liu, Guifang Duan, Jianrong Tan. *"Part-to-Surface Mesh Segmentation for Mechanical Models Based on Multi-Stage Clustering"*. 
   - CAD 2023
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448523000775)]
@@ -187,6 +191,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - SPM 2008
   - [[Paper](https://cg.cs.tsinghua.edu.cn/people/~laiyk/papers/spm08seg.pdf)]
   - __`seg.`__
+- Surface reconstruction from unorganized point data with quadrics. *"Surface reconstruction from unorganized point data with quadrics"*. 
+  - CGF 2008
+  - [[Paper](https://web.cs.ucdavis.edu/~hamann/VancoHamannBrunnettComputerGraphicsForumPaperRevision1_09252007.pdf)]
+  - __`seg.`__ __`pri.`__
 
 # 2007 
 - Ruwen Schnabel, Roland Wahl, Reinhard Klein. *"Efficient ransac for point-cloud shape detection"*. 
@@ -223,6 +231,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`seg.`__ 
 
 # Before 2005
+- Amir Helzer, Meir Barzohar, David Malah. *"Stable fitting of 2D curves and 3D surfaces by implicit polynomials"*. 
+  - TPAMI 2004
+  - [[Paper](https://ieeexplore.ieee.org/abstract/document/1323797)]
+  - __`fit.`__
 - Helmut Pottmann, Michael Hofer, Boris Odehnal, Johannes Wallner. *"Line geometry for 3D shape understanding and reconstruction"*. 
   - ECCV 2004
   - [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=65e9461070d3a0f42c8f33636207a68d065888c2)]
