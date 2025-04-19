@@ -126,6 +126,11 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448517302312)]
   - __`fit.`__
 
+- Daniel Mejia, Oscar Ruiz-Salguero, Jairo R Sánchez, Jorge Posada, Aitor Moreno, Carlos A Cadavid. *"Hybrid geometry/topology based mesh segmentation for reverse engineering"*. 
+  - C&G 2018
+  - [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849318300372)]
+  - __`seg.`__ __`pri.`__ 
+
 # 2017
 - Yixin Zhuang, Hang Dou, Nathan Carr, Tao Ju. *"Feature-Aligned Segmentation using Correlation Clustering"*. 
   - CVM 2017
@@ -191,7 +196,7 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - SPM 2008
   - [[Paper](https://cg.cs.tsinghua.edu.cn/people/~laiyk/papers/spm08seg.pdf)]
   - __`seg.`__
-- Surface reconstruction from unorganized point data with quadrics. *"Surface reconstruction from unorganized point data with quadrics"*. 
+- Marek Vančo, Bernd Hamann, Guido Brunnett. *"Surface reconstruction from unorganized point data with quadrics"*. 
   - CGF 2008
   - [[Paper](https://web.cs.ucdavis.edu/~hamann/VancoHamannBrunnettComputerGraphicsForumPaperRevision1_09252007.pdf)]
   - __`seg.`__ __`pri.`__
@@ -256,14 +261,16 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - [[Paper](https://ieeexplore.ieee.org/abstract/document/378149/)]
   - __`fit.`__  
 
-# Brep Dataset
+# Brep/CAD Dataset
 - [ABC Dataset](https://deep-geometry.github.io/abc-dataset/)
 - [Fusion 360 Gallery Dataset](https://github.com/AutodeskAILab/Fusion360GalleryDataset)
+- [WHUCAD](https://github.com/fazhihe/WHUCAD)
 - [MFCAD](https://github.com/hducg/MFCAD)
 - [MFCAD++](https://pure.qub.ac.uk/en/datasets/mfcad-dataset-dataset-for-paper-hierarchical-cadnet-learning-from)
 
 # Useful Project (including but not limited to)
 - [Open CASCADE Technology](https://dev.opencascade.org/)
+- [pythonOCC](https://dev.opencascade.org/project/pythonocc)
 - [Geometric Tools Engine](https://github.com/davideberly/GeometricTools)
 - [EfPiSoft](https://efpisoft.sourceforge.net/)
 - [OCC-QT-Demo](https://github.com/ajune-wang/OCC-QT-Demo)
