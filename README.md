@@ -85,6 +85,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - SIGGRAPH Asia 2022
   - [[Paper](https://arxiv.org/abs/2212.03600)][[Project Page](https://ruixu.me/html/RFEPS/index.html)][[Code](https://github.com/Xrvitd/RFEPS)]
   - __`fea.`__ 
+- Mikaela Angelina Uy, Yen-Yu Chang, Minhyuk Sung, Purvi Goel, Joseph G Lambourne, Tolga Birdal, Leonidas J Guibas. *"Point2cyl: Reverse engineering 3d objects from point clouds to extrusion cylinders"*. 
+  - CVPR 2022
+  - [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Uy_Point2Cyl_Reverse_Engineering_3D_Objects_From_Point_Clouds_to_Extrusion_CVPR_2022_paper.pdf)][[Project Page](https://point2cyl.github.io/)][[Code](https://github.com/mikacuy/point2cyl)]
+  - __`seg.`__ __`pri.`__ 
 - Long Zhang, Jianwei Guo, Jun Xiao, Xiaopeng Zhang, Dong-Ming Yan. *"Blending Surface Segmentation and Editing for 3D Models"*. 
   - TVCG 2022
   - [[Paper](https://ieeexplore.ieee.org/document/9296787)]
@@ -115,6 +119,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - CVPR 2019 Oral
   - [[Paper](https://arxiv.org/abs/1811.08988)][[Code](https://github.com/lingxiaoli94/SPFN)]
   - __`seg.`__ __`fit.`__ __`pri.`__
+- Jung Min Park, Byung Chai Lee, Soo Won Chae, Ki Youn Kwon. *"Surface reconstruction from FE mesh model"*. 
+  - Journal of Computational Design and Engineering 2019
+  - [[Paper](https://academic.oup.com/jcde/article/6/2/197/5732318?login=false)]
+  - __`seg.`__ 
 - Márton Vaitkus, Tamás Várady. *"A Labeling Algorithm for Trimmed Surface Fitting"*. 
   - CADA 2019
   - [[Paper](https://www.cad-journal.net/files/vol_16/CAD_16(4)_2019_720-732.pdf)]
@@ -192,6 +200,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`seg.`__ __`pri.`__  
 
 # 2008
+- Kenichi Kanatani. *"Statistical optimization for geometric fitting: Theoretical accuracy bound and high order error analysis"*. 
+  - IJCV 2008
+  - [[Paper](https://iim.cs.tut.ac.jp/member/kanatani/papers/cvaccuracy.pdf)]
+  - __`fit.`__
 - Yuekun Lai, Shi-Min Hu, Ralph R. Martin, Paul L. Rosin. *"Fast Mesh Segmentation using Random Walks"*. 
   - SPM 2008
   - [[Paper](https://cg.cs.tsinghua.edu.cn/people/~laiyk/papers/spm08seg.pdf)]
@@ -208,6 +220,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`pri.`__ __`fit.`__ 
 
 # 2006
+- Tahir Rabbani, Frank Van Den Heuvel, George Vosselmann. *"Segmentation of point clouds using smoothness constraint."*.
+  - ISPRS J. PhotoGramm. 2006
+  - [[Paper](https://www.isprs.org/proceedings/XXXVI/part5/paper/RABB_639.pdf)][[PCL Document](https://pointclouds.org/documentation/classpcl_1_1_region_growing.html)]
+  - __`seg.`__ 
 - Marco Attene, Michela Spagnuolo, Bianca Falcidieno. *"Hierarchical Mesh Segmentation based on Fitting Primitives"*.
   - TVC 2006
   - [[Paper](https://link.springer.com/article/10.1007/s00371-006-0375-x)][[Software](https://efpisoft.sourceforge.net/)]
@@ -219,10 +235,6 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - Tomohiro Mizoguchi, Hiroaki Date, Satoshi Kanai, Takeshi Kishinami. *"Segmentation of Scanned Mesh into Analytic Surfaces Based on Robust Curvature Estimation and Region Growing"*. 
   - GMP 2006
   - [[Paper](https://link.springer.com/chapter/10.1007/11802914_52)]
-  - __`seg.`__ 
-- Tahir Rabbani, Frank Van Den Heuvel, George Vosselmann. *"Segmentation of point clouds using smoothness constraint."*.
-  - ISPRS J. PhotoGramm. 2006
-  - [[Paper](https://www.isprs.org/proceedings/XXXVI/part5/paper/RABB_639.pdf)][[PCL Document](https://pointclouds.org/documentation/classpcl_1_1_region_growing.html)]
   - __`seg.`__ 
 
 # 2005
