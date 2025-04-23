@@ -14,6 +14,8 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 
 :balloon: **reference to [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis).**
 
+:confounded: The categorization of these directions may carry some ambiguity, therefore **the above classification is solely based on my personal subjective judgment** !
+
 # 2025
 - Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
   - CVPR 2025
