@@ -83,6 +83,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - SIGGRAPH 2022
   - [[Paper](https://haopan.github.io/papers/ComplexGen.pdf)][[Project Page](https://haopan.github.io/complexgen.html)][[Code](https://github.com/guohaoxiang/ComplexGen)]
   - __`seg.`__ __`com.`__ 
+- Albert Matveev, Ruslan Rakhimov, Alexey Artemov, Gleb Bobrovskikh, Vage Egiazarian, Emil Bogomolov, Daniele Panozzo, Denis Zorin, Evgeny Burnaev. *"DEF: Deep Estimation of Sharp Geometric Features in 3D Shapes"*. 
+  - SIGGRAPH 2022
+  - [[Paper](https://cims.nyu.edu/gcl/papers/2022-DEF.pdf)][[Project Page](https://artonson.github.io/publications/2022-def/)][[Code](https://github.com/artonson/def)]
+  - __`fea.`__
 - Rui Xu, Zixiong Wang, Zhiyang Dou, Chen Zong, Shiqing Xin, Mingyan Jiang, Tao Ju, Changhe Tu. *"RFEPS: Reconstructing Feature-line Equipped Polygonal Surface"*. 
   - SIGGRAPH Asia 2022
   - [[Paper](https://arxiv.org/abs/2212.03600)][[Project Page](https://ruixu.me/html/RFEPS/index.html)][[Code](https://github.com/Xrvitd/RFEPS)]
@@ -131,11 +135,14 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`fit.`__
 
 # 2018
+- Márton Vaitkus, Tamás Várady. *"Ec-net: an edge-aware point set consolidation network"*. 
+  - ECCV 2018
+  - [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Lequan_Yu_EC-Net_an_Edge-aware_ECCV_2018_paper.pdf)][[Project Page](https://yulequan.github.io/ec-net/)][[Code](https://github.com/yulequan/EC-Net)]
+  - __`fea.`__
 - Márton Vaitkus, Tamás Várady. *"Parameterizing and extending trimmed regions for tensor-product surface fitting"*. 
   - CAD 2018
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448517302312)]
   - __`fit.`__
-
 - Daniel Mejia, Oscar Ruiz-Salguero, Jairo R Sánchez, Jorge Posada, Aitor Moreno, Carlos A Cadavid. *"Hybrid geometry/topology based mesh segmentation for reverse engineering"*. 
   - C&G 2018
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0097849318300372)]
