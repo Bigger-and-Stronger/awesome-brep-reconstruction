@@ -135,7 +135,7 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`fit.`__
 
 # 2018
-- Márton Vaitkus, Tamás Várady. *"Ec-net: an edge-aware point set consolidation network"*. 
+- Lequan Yu, Xianzhi Li, Chi-Wing Fu, Daniel Cohen-Or, Pheng-Ann Heng. *"Ec-net: an edge-aware point set consolidation network"*. 
   - ECCV 2018
   - [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Lequan_Yu_EC-Net_an_Edge-aware_ECCV_2018_paper.pdf)][[Project Page](https://yulequan.github.io/ec-net/)][[Code](https://github.com/yulequan/EC-Net)]
   - __`fea.`__
