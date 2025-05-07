@@ -19,8 +19,12 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 # 2025
 - Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
   - CVPR 2025
-  - [[Paper](https://lidan233.github.io/caddreamer/static/papers/main.pdf)][[Project Page](https://lidan233.github.io/caddreamer/)][[Code(coming soon)](https://github.com/lidan233/CADDreamer)]
+  - [[Paper](https://lidan233.github.io/caddreamer/static/papers/main.pdf)][[Project Page](https://lidan233.github.io/caddreamer/)][[Code](https://github.com/lidan233/CADDreamer)]
   - __`com.`__
+- Zheng Fang, Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Lupeng Liu, Jun Xiao. *"BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds"*. 
+  - TIP 2025
+  - [[Paper](https://ieeexplore.ieee.org/document/10896454)][[Code](https://github.com/fz-20/BGPSeg)]
+  - __`seg.`__ __`pri.`__ 
 - Yuanqi Li, Hongshen Wang, Yansong Liu, Jingcheng Huang, Shun Liu, Chenyu Huang, Jianwei Guo, Jie Guo, Yanwen Guo. *"Deep Point Cloud Edge Reconstruction via Surface Patch Segmentation"*. 
   - TVCG 2025
   - [[Paper](https://ieeexplore.ieee.org/abstract/document/10909144)]
@@ -293,6 +297,7 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - [Open CASCADE Technology](https://dev.opencascade.org/)
 - [pythonOCC](https://dev.opencascade.org/project/pythonocc)
 - [Geometric Tools Engine](https://github.com/davideberly/GeometricTools)
+- [Awesome Neural CAD](https://bunnysocrazy.com/)
 - [EfPiSoft](https://efpisoft.sourceforge.net/)
 - [OCC-QT-Demo](https://github.com/ajune-wang/OCC-QT-Demo)
 - [OpenCASCADE中文学习笔记](https://github.com/KonXiong/OpenCASCADE)
