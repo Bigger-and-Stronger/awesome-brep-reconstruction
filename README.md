@@ -21,6 +21,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - CVPR 2025
   - [[Paper](https://lidan233.github.io/caddreamer/static/papers/main.pdf)][[Project Page](https://lidan233.github.io/caddreamer/)][[Code](https://github.com/lidan233/CADDreamer)]
   - __`com.`__
+- Cheng Chen, Jiacheng Wei, Tianrun Chen, Chi Zhang, Xiaofeng Yang, Shangzhan Zhang, Bingchen Yang, Chuan-Sheng Foo, Guosheng Lin, Qixing Huang, Fayao Liu. *"CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images"*. 
+  - CVPR 2025
+  - [[Paper](https://arxiv.org/pdf/2504.04753)]
+  - __`com.`__
 - Zheng Fang, Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Lupeng Liu, Jun Xiao. *"BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds"*. 
   - TIP 2025
   - [[Paper](https://ieeexplore.ieee.org/document/10896454)][[Code](https://github.com/fz-20/BGPSeg)]
@@ -51,6 +55,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - NeurIPS 2024
   - [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/028ef7e68a5ea25fc26cd6abf3a5c147-Paper-Conference.pdf)][[Open Review](https://openreview.net/forum?id=Ad3PzTuqIq)]
   - __`seg.`__
+- Elona Dupont, Kseniya Cherenkova, Dimitrios Mallis, Gleb Gusev, Anis Kacem, Djamila Aouada. *"Transcad: A hierarchical transformer for cad sequence inference from point clouds"*. 
+  - ECCV 2024
+  - [[Paper](https://arxiv.org/pdf/2407.12702)]
+  - __`com.`__
 - Anyu Mu, Zhenyu Liu, Guifang Duan, Jianrong Tan. *"Structural regularity detection and enhancement for surface mesh reconstruction in reverse engineering"*. 
   - CAD 2024
   - [[Paper](https://www.sciencedirect.com/science/article/pii/S0010448524001076)]
@@ -269,6 +277,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - ECCV 2004
   - [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=65e9461070d3a0f42c8f33636207a68d065888c2)]
   - __`seg.`__ __`fit.`__ __`pri.`__  
+- Helmut Pottmann, Stefan Leopoldseder. *"A concept for parametric surface fitting which avoids the parametrization problem"*. 
+  - CAGD 2003
+  - [[Paper](http://sccg.sk/~chalmo/GM/cagd7-110304.pdf)]
+  - __`fit.`__ 
 - Pál Benkö, Géza Kós, Tamás Várady, László Andor, Ralph Robert Martin. *"Constrained fitting in reverse engineering"*. 
   - CAGD 2002
   - [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839601000851)]
