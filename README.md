@@ -17,6 +17,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 :confounded: The categorization of these directions may carry some ambiguity, therefore **the above classification is solely based on my personal subjective judgment** !
 
 # 2025
+- Yilin Liu, Duoteng Xu, Xingyao Yu, Xiang Xu, Daniel Cohen-Or, Hao Zhang, Hui Huang. *"HoLa: B-Rep Generation using a Holistic Latent Representation"*. 
+  - SIGGRAPH 2025
+  - [[Paper](https://arxiv.org/abs/2504.14257)][[Project Page](https://vcc.szu.edu.cn/research/2025/HolaBRep)][[WebUI](https://huggingface.co/spaces/YuXingyao/HoLa-BRep)]
+  - __`com.`__
 - Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
   - CVPR 2025
   - [[Paper](https://lidan233.github.io/caddreamer/static/papers/main.pdf)][[Project Page](https://lidan233.github.io/caddreamer/)][[Code](https://github.com/lidan233/CADDreamer)]
