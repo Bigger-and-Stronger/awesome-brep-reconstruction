@@ -29,6 +29,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - CVPR 2025
   - [[Paper](https://arxiv.org/pdf/2504.04753)]
   - __`com.`__
+- Danila Rukhovich, Elona Dupont, Dimitrios Mallis, Kseniya Cherenkova, Anis Kacem, Djamila Aouada. *"CAD-Recode: Reverse Engineering CAD Code from Point Clouds"*. 
+  - ICCV 2025
+  - [[Paper](https://arxiv.org/abs/2412.14042)][[Project Page](https://cad-recode.github.io/)][[Code](https://github.com/filapro/cad-recode)]
+  - __`com.`__
 - Zheng Fang, Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Lupeng Liu, Jun Xiao. *"BGPSeg: Boundary-Guided Primitive Instance Segmentation of Point Clouds"*. 
   - TIP 2025
   - [[Paper](https://ieeexplore.ieee.org/document/10896454)][[Code](https://github.com/fz-20/BGPSeg)]
@@ -41,6 +45,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - TVCG 2025
   - [[Paper](https://ieeexplore.ieee.org/document/10824954)]
   - __`seg.`__ __`fit.`__  __`com.`__ 
+- Yike Xu, Jianwei Guo, Li Cao, Xiaoping Liu. *"EDWG: Efficient Edge Detection and Wireframe Generation from Point Clouds"*. 
+  - IEEE Transactions on Instrumentation & Measurement, 2025
+  - [[Paper](https://ieeexplore.ieee.org/abstract/document/11005571)]
+  - __`fea.`__ 
 
 # 2024
 - Yilin Liu, Jiale Chen, Shanshan Pan, Daniel Cohen-Or, Hao Zhang, Hui Huang. *"Split-and-Fit: Learning B-Reps via Structure-Aware Voronoi Partitioning"*. 
@@ -124,6 +132,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - Eric-Tuan Lê, Minhyuk Sung, Duygu Ceylan, Radomír Měch, Tamy Boubekeur, Niloy Mitra. *"CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds"*. 
   - ICCV 2021
   - [[Paper](https://arxiv.org/abs/2109.00113)][[Code](https://github.com/erictuanle/CPFN)]
+  - __`seg.`__ __`pri.`__ 
+- Jingwei Huang, Yanfeng Zhang, Mingwei Sun. *"PrimitiveNet: Primitive Instance Segmentation with Local Primitive Embedding under Adversarial Metric"*. 
+  - ICCV 2021
+  - [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_PrimitiveNet_Primitive_Instance_Segmentation_With_Local_Primitive_Embedding_Under_Adversarial_ICCV_2021_paper.html)][[Code](https://github.com/hjwdzh/PrimitiveNet)]
   - __`seg.`__ __`pri.`__ 
 
 # 2020
