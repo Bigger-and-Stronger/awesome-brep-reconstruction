@@ -21,6 +21,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - SIGGRAPH 2025
   - [[Paper](https://arxiv.org/abs/2504.14257)][[Project Page](https://vcc.szu.edu.cn/research/2025/HolaBRep)][[WebUI](https://huggingface.co/spaces/YuXingyao/HoLa-BRep)]
   - __`com.`__
+- Jing-En Jiang, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen, Shiqing Xin, Changhe Tu, Wenping Wang. *"DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models"*. 
+  - SIGGRAPH 2025
+  - [[Paper](https://dl.acm.org/doi/abs/10.1145/3731166)][[Project Page]()][[Code](https://github.com/xiaowuga/DeFillet)]
+  - __`seg.`__
 - Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
   - CVPR 2025
   - [[Paper](https://lidan233.github.io/caddreamer/static/papers/main.pdf)][[Project Page](https://lidan233.github.io/caddreamer/)][[Code](https://github.com/lidan233/CADDreamer)]
@@ -314,9 +318,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - [[Paper](https://ieeexplore.ieee.org/abstract/document/378149/)]
   - __`fit.`__  
 
-# Brep/CAD Dataset
+# Brep/CAD Dataset (including but not limited to)
 - [ABC Dataset](https://deep-geometry.github.io/abc-dataset/)
 - [Fusion 360 Gallery Dataset](https://github.com/AutodeskAILab/Fusion360GalleryDataset)
+- [DeepCAD](https://www.cs.columbia.edu/cg/deepcad/)
 - [WHUCAD](https://github.com/fazhihe/WHUCAD)
 - [MFCAD](https://github.com/hducg/MFCAD)
 - [MFCAD++](https://pure.qub.ac.uk/en/datasets/mfcad-dataset-dataset-for-paper-hierarchical-cadnet-learning-from)
