@@ -23,7 +23,7 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - __`com.`__
 - Jing-En Jiang, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen, Shiqing Xin, Changhe Tu, Wenping Wang. *"DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models"*. 
   - SIGGRAPH 2025
-  - [[Paper](https://dl.acm.org/doi/abs/10.1145/3731166)][[Project Page]()][[Code](https://github.com/xiaowuga/DeFillet)]
+  - [[Paper](https://dl.acm.org/doi/abs/10.1145/3731166)][[Project Page](https://xiaowuga.github.io/pub/DeFillet.html)][[Code](https://github.com/xiaowuga/DeFillet)]
   - __`seg.`__
 - Yuan Li, Cheng Lin, Yuan Liu, Xiaoxiao Long, Chenxu Zhang, Ningna Wang, Xin Li, Wenping Wang, Xiaohu Guo. *"CADDreamer: CAD object Generation from Single-view Images"*. 
   - CVPR 2025
@@ -146,6 +146,10 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - Gopal Sharma, Difan Liu, Evangelos Kalogerakis, Subhransu Maji, Siddhartha Chaudhuri, Radomír Měch. *"ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds"*. 
   - ECCV 2020
   - [[Paper](https://arxiv.org/pdf/2003.12181.pdf)][[Project Page](https://hippogriff.github.io/parsenet/)][[Code](https://github.com/Hippogriff/parsenet-codebase)]
+  - __`seg.`__ __`pri.`__ 
+- Sommer Christiane, Sun Yumin, Bylow Erik, Cremers Daniel. *"PrimiTect: Fast Continuous Hough Voting for Primitive Detection"*. 
+  - ICRA 2020
+  - [[Paper](https://arxiv.org/pdf/2005.07457)][[Code](https://github.com/c-sommer/primitect)]
   - __`seg.`__ __`pri.`__ 
 - Xiaolong Yang, Xiaohong Jia. *"Simple primitive recognition via hierarchical face clustering"*. 
   - CVM 2020
