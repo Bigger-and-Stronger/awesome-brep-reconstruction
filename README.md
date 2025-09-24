@@ -63,6 +63,14 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - CVPR 2024 
   - [[Paper](https://arxiv.org/abs/2312.04962)][[Project Page](https://www.obukhov.ai/point2cad)][[Code](https://github.com/prs-eth/point2cad)]
   - __`fit.`__  __`com.`__ 
+- Mohsen Yavartanoo, Sangmin Hong, Reyhaneh Neshatavar, Kyoung Mu Lee. *"CNC-Net: Self-Supervised Learning for CNC Machining Operations"*. 
+  - CVPR 2024 
+  - [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yavartanoo_CNC-Net_Self-Supervised_Learning_for_CNC_Machining_Operations_CVPR_2024_paper.html)][[Code](https://github.com/myavartanoo/CNC-Net_PyTorch)]
+  - __`com.`__ 
+- Mohammad Sadil Khan, Elona Dupont, Sk Aziz Ali, Kseniya Cherenkova, Anis Kacem, Djamila Aouada. *"CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention"*. 
+  - CVPR 2024 
+  - [[Paper](https://arxiv.org/abs/2402.17678)][[Project Page](http://skazizali.com/cadsignet.github.io/)]
+  - __`com.`__ 
 - Pu Li, Jianwei Guo, Huibin Li, Bedrich Benes, Dong-Ming Yan. *"SfmCAD: Unsupervised CAD Reconstruction by Learning Sketch-based Feature Modeling Operations"*. 
   - CVRP 2024 
   - [[Paper](https://jianweiguo.net/publications/papers/2024_CVPR_SfmCAD_main.pdf)][[Code(May be in the process of organization)](https://github.com/BunnySoCrazy/SfmCAD)]
