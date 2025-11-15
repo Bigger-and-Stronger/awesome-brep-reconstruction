@@ -1,4 +1,5 @@
-# Awesome Brep Reconstruction
+# Awesome Brep Reconstruction [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A list on Brep reconstruction, primarily consisting of academic papers, along with some useful open-source projects and dataset. 
 
 It should be noted that, in addition to the **Complete Implementation of Brep Reconstruction**, we also considered related work on **CAD Model Segmentation**, **Surface Fitting**, **Primitive Recognition** and **Feature-line Reconstruction**, as these are important steps in BRep reconstruction.
@@ -337,6 +338,8 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - [WHUCAD](https://github.com/fazhihe/WHUCAD)
 - [MFCAD](https://github.com/hducg/MFCAD)
 - [MFCAD++](https://pure.qub.ac.uk/en/datasets/mfcad-dataset-dataset-for-paper-hierarchical-cadnet-learning-from)
+- [TMCAD](https://github.com/Qiang-Zou/BRT)
+
 
 # Useful Project (including but not limited to)
 - [Open CASCADE Technology](https://dev.opencascade.org/)
