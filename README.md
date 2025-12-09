@@ -55,6 +55,11 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - [[Paper](https://ieeexplore.ieee.org/abstract/document/11005571)]
   - __`fea.`__ 
 
+- Nomi Yu, Md Ferdous Alam, A John Hart, Faez Ahmed. *"GenCAD-3D: CAD Program Generation Using Multimodal Latent Space Alignment and Synthetic Dataset Balancing"*. 
+  - International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, 2025
+  - [[Paper](https://arxiv.org/pdf/2509.15246)][[Code](https://github.com/yunomi-git/GenCAD-3D)]
+  - __`com.`__
+
 # 2024
 - Yilin Liu, Jiale Chen, Shanshan Pan, Daniel Cohen-Or, Hao Zhang, Hui Huang. *"Split-and-Fit: Learning B-Reps via Structure-Aware Voronoi Partitioning"*. 
   - SIGGRAPH 2024 
