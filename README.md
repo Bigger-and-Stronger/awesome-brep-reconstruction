@@ -16,6 +16,11 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 :balloon: **reference to [awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis).**
 
 :confounded: The categorization of these directions may carry some ambiguity, therefore **the above classification is solely based on my personal subjective judgment** !
+# 2026
+- Fuentes Perez, Lizeth J. and Lafarge, Florent and Pajarola, Renato. *"NURBSFit: Robust Fitting of NURBS Surfaces to Point Clouds"*. 
+  - 3DV 2026
+  - [[Paper](https://hal.science/hal-05411017/document)][[Code](https://github.com/lizOnly/nurbsfit)]
+  - __`seg.`__ __`fit.`__ __`pri.`__ 
 
 # 2025
 - Yilin Liu, Duoteng Xu, Xingyao Yu, Xiang Xu, Daniel Cohen-Or, Hao Zhang, Hui Huang. *"HoLa: B-Rep Generation using a Holistic Latent Representation"*. 
@@ -54,7 +59,6 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
   - IEEE Transactions on Instrumentation & Measurement, 2025
   - [[Paper](https://ieeexplore.ieee.org/abstract/document/11005571)]
   - __`fea.`__ 
-
 - Nomi Yu, Md Ferdous Alam, A John Hart, Faez Ahmed. *"GenCAD-3D: CAD Program Generation Using Multimodal Latent Space Alignment and Synthetic Dataset Balancing"*. 
   - International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, 2025
   - [[Paper](https://arxiv.org/pdf/2509.15246)][[Code](https://github.com/yunomi-git/GenCAD-3D)]
