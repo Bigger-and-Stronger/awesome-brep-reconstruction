@@ -17,6 +17,30 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 
 :confounded: The categorization of these directions may carry some ambiguity, therefore **the above classification is solely based on my personal subjective judgment** !
 # 2026
+- Jing Li, Yihang Fu, Falai Chen. *"BrepForge: Factorized B-rep Synthesis via Wireframe Composition and Boundary-Conditioned Surface Instantiation"*. 
+  - SIGGRAPH 2026
+  - [[Paper](https://arxiv.org/abs/2605.19411)]
+  - __`com.`__ 
+- Yilin Liu, Pradeep Jayaraman, Chinthala Reddy, Xiang Xu, Hooman Shayani. *"DualBrep: A Dual-Field Continuous Representation for B-rep Modelling"*. 
+  - SIGGRAPH 2026
+  - [[Paper](https://arxiv.org/abs/2606.31579)][[Code](https://github.com/AutodeskAILab/DualBrep)]
+  - __`com.`__
+- Dafei Qin, Rui Xu, Zeyu Shen, Kaichun Qiao, Hongyang Lin, Qixuan Zhang, Huaijin Pi, Lan Xu, Jingyi Yu, Wenping Wang, Taku Komura. *"Autoregressive B-Rep Shape Generation with Parametric Surfaces"*. 
+  - SIGGRAPH 2026
+  - [[Paper](https://arxiv.org/abs/2607.17093)][[Code](https://github.com/dafei-qin/ParaCAD)]
+  - __`com.`__ 
+- Ka-Hei Hui, Vikas Thamizharasan, Pradeep Kumar Jayaraman, Xiang Xu. *"BRepFacetGen: Reverse Engineering B-Reps by Generative Face Segmentation"*. 
+  - ECCV 2026
+  - [[Paper](https://eccv.ecva.net/virtual/2026/poster/4344)][[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5489.pdf)]
+  - __`seg.`__ __`com.`__
+- Maksim Kolodiazhnyi, Denis Tarasov, Dmitrii Zhemchuzhnikov, Alexander Nikulin, Ilya Zisman, Anna Vorontsova, Anton Konushin, Vladislav Kurenkov, Danila Rukhovich. *"cadrille: Multi-modal CAD Reconstruction with Reinforcement Learning"*. 
+  - ICLR 2026
+  - [[Paper](https://arxiv.org/abs/2505.22914)][[Code](https://github.com/col14m/cadrille)]
+  - __`com.`__
+- Soslan Kabisov, Gennadiy Savrasov, Maksim Elistratov, Antonio Rodriguez, Daniil Ignatiev, Nikita Gavrilov, Rustam Uzdenov, Alexey I. Boyko, Igor Pasechnik, Anton Konushin, Andrey Kuznetsov, Dmitrii Zhemchuzhnikov. *"CADENA: Stepwise CAD Reverse Engineering"*. 
+  - arXiv 2026
+  - [[Paper](https://arxiv.org/abs/2608.00799)][[Code](https://github.com/kulibinai/cadena)]
+  - __`com.`__
 - Fuentes Perez, Lizeth J. and Lafarge, Florent and Pajarola, Renato. *"NURBSFit: Robust Fitting of NURBS Surfaces to Point Clouds"*. 
   - 3DV 2026
   - [[Paper](https://hal.science/hal-05411017/document)][[Code](https://github.com/lizOnly/nurbsfit)]
@@ -353,8 +377,13 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 # Useful Project (including but not limited to)
 - [Open CASCADE Technology](https://dev.opencascade.org/)
 - [pythonOCC](https://dev.opencascade.org/project/pythonocc)
+- [CadQuery](https://github.com/CadQuery/cadquery)
+- [CQ-editor](https://github.com/CadQuery/CQ-editor)
+- [USD BRep](https://github.com/NVIDIA-Omniverse/usd-brep)
+- [SimpleCADAPI](https://github.com/PhySpace/SimpleCADAPI)
 - [Geometric Tools Engine](https://github.com/davideberly/GeometricTools)
 - [Awesome Neural CAD](https://bunnysocrazy.com/)
+- [awesome-ai-cad-notes](https://github.com/Fasuiker/awesome-ai-cad-notes)
 - [EfPiSoft](https://efpisoft.sourceforge.net/)
 - [OCC-QT-Demo](https://github.com/ajune-wang/OCC-QT-Demo)
 - [OpenCASCADE中文学习笔记](https://github.com/KonXiong/OpenCASCADE)
