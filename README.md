@@ -385,6 +385,7 @@ __`com.`__ : complete implementation of brep reconstruction &emsp; | &emsp; __`o
 - [Awesome Neural CAD](https://bunnysocrazy.com/)
 - [awesome-ai-cad-notes](https://github.com/Fasuiker/awesome-ai-cad-notes)
 - [EfPiSoft](https://efpisoft.sourceforge.net/)
+- [OCCT-ImGui](https://github.com/Xiaoyanglib/OCCT-ImGui)
 - [OCC-QT-Demo](https://github.com/ajune-wang/OCC-QT-Demo)
 - [OpenCASCADE中文学习笔记](https://github.com/KonXiong/OpenCASCADE)
 
